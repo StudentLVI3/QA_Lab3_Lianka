@@ -2,8 +2,15 @@
 
 namespace LR_6._1_С_sharp__STP
 {
+    /// <summary>
+    /// Cодержит метод Main, который является точкой входа в программу
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// Точка входа в программу - Main
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Конструктор:");
